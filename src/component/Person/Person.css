@@ -1,0 +1,38 @@
+.perosn-container{
+    border: 1px  solid rgb(1, 139, 173);
+    margin-top: 20px;
+    margin-left: 8px;
+    margin-right: 8px;
+    padding: 20px 10px;
+
+    background-color: rgba(255, 255, 255, 0.664);
+}
+.person-img{
+text-align: center;
+}
+.person-img img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+   
+}
+.person-content h2{
+    text-align: center;
+}
+.person-content p{
+    word-break: break-all;
+}
+.hireme{
+    border: 1px solid rgb(1, 139, 173);
+    color: rgb(1, 139, 173);
+
+}
+.hireme:hover{
+    border: 1px solid rgb(1, 139, 173);
+
+    background-color:rgb(1, 139, 173) ;
+    
+}
+strong{
+    color: rgb(1, 139, 173);
+}

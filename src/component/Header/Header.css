@@ -1,0 +1,23 @@
+.header{
+  background-color: rgb(1, 139, 173);
+  color: white;
+  padding-bottom: 20px;
+}
+.logo-img {
+
+    text-align: center;
+    cursor: pointer;
+  
+}
+.logo-img img{
+    width: 300px;
+    margin: 20px;
+    margin-bottom: 0;
+    text-align: center;
+    filter: invert();
+  
+}
+.headline{
+    text-align: center;
+    padding-bottom: 2px;
+}

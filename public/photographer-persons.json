@@ -1,0 +1,134 @@
+[
+  {
+    "key": 1,
+    "name": "Evan Cox",
+    "gender": "Female",
+    "age": 27,
+    "img": "https://i.ibb.co/mTSsBTd/36a877276a78b56aa84673125330ae8c.jpg",
+    "location": "Los Angeles",
+    "about": "Fashion, Lifestyle, and Landscape film photographer in Los Angeles.",
+    "expertise": "Events",
+    "charge": 550
+  },
+  {
+    "key": 2,
+    "name": "Michael Smith",
+    "gender": "Male",
+    "age": 24,
+    "img": "https://i.ibb.co/wYQGzCY/depositphotos-23099522-stock-photo-young-handsome-man.jpg",
+    "location": "New York",
+    "about": "I really enjoy photography and cinematography. I am new here but I am well reviewed on other apps.",
+    "expertise": "Portrait",
+    "charge": 430
+  },
+  {
+    "key": 3,
+    "name": "James Fancourt",
+    "gender": "Male",
+    "age": 23,
+    "img": "https://i.ibb.co/wsBcRbS/a3bc38efd85052344dac2138da25d153.jpg",
+    "location": "California,USA",
+    "about": "James Fancourt is a photographer and writer based in California. Focusing predominantly in the area of editorial, architectural.",
+    "expertise": "Architectural",
+    "charge": 750
+  },
+  {
+    "key": 4,
+    "name": "Rajesh Soni",
+    "gender": "Male",
+    "age": 28,
+    "img": "https://i.ibb.co/KVnKDz0/handsome-confident-smiling-man-with-hands-crossed-chest-176420-18743.webp",
+    "location": "New York",
+    "about": "I'm a veteran cruise ship photographer, I like to capture my day to day life...",
+    "expertise": "Landscape",
+    "charge": 500
+  },
+  {
+    "key": 5,
+    "name": "Marian Ene",
+    "gender": "Female",
+    "age": 24,
+    "img": "https://i.ibb.co/jRv79RW/Screenshot-1.png",
+    "location": "North Dakota",
+    "about": "I am a freelance photographer who loves finding the unique and unusual and bringing a spotlight to it.",
+    "expertise": "Fashion",
+    "charge": 650
+  },
+  {
+    "key": 6,
+    "name": "Jehanzeb Khan",
+    "gender": "Male",
+    "age": 25,
+    "img": "https://i.ibb.co/f1nTHYt/Young-handsome-man-leaning-against-grey-wall-with-arms-crossed-Cheerful-man-laughing-and-looking-at.jpg",
+    "location": "North Carolina",
+    "about": "I am passionate about photography and I want to make money from them.",
+    "expertise": "Wedding",
+    "charge": 550
+  },
+  {
+    "key": 7,
+    "name": "Marissa Saurer",
+    "gender": "Female",
+    "age": 26,
+    "img": "https://i.ibb.co/9Y70g7B/mid-length-haircuts-0213.jpg",
+    "location": "San Jose",
+    "about": "I travel throughout North America shooting food and beverages. My primary areas include Minnesota, Wisconsin, Texas, Arizona,",
+    "expertise": "Food",
+    "charge": 750
+  },
+  {
+    "key": 8,
+    "name": "Angella Rose",
+    "gender": "Female",
+    "age": 30,
+    "img": "https://i.ibb.co/WvysZdG/ioana-hadadea-0.jpg",
+    "location": "Washington",
+    "about": "I am fond of nature photography but also enjoy bringing a fun life to portrait photography as well.",
+    "expertise": "Nature",
+    "charge": 480
+  },
+  {
+    "key": 9,
+    "name": "Tim Sabatino",
+    "gender": "Male",
+    "age": 28,
+    "img": "https://i.ibb.co/QMLz5KN/black-and-white-fun-happy-laughing-man-person-portrait-smile-913378.jpg",
+    "location": "Los Angeles,",
+    "about": "Hi, my name is Tim Sabatino. I've been a full time pro photographer since 1994. I specialize in lighting & medium-large format cameras.",
+    "expertise": "Editorial",
+    "charge": 780
+  },
+  {
+    "key": 10,
+    "name": "Justin owens",
+    "gender": "Male",
+    "age": 27,
+    "img": "https://i.ibb.co/MD6VYbF/152721460e2e47a3948ebf077680e78f.jpg",
+    "location": "Colorado Springs,",
+    "about": "I'm a Colorado Springs/ Denver based photographer. I have been behind the lens for around 3 years now.",
+    "expertise": "Model",
+    "charge": 930
+  },
+  {
+    "key": 11,
+    "name": "David Comdico",
+    "gender": "Male",
+    "age": 25,
+    "img": "https://i.ibb.co/Rj07D56/depositphotos-56005045-portrait-of-attractive-happy-smiling-stylish-young-man-in-autumn.jpg",
+    "location": "Philadelphia,US",
+    "about": "Experienced photographer who shoots both film and digital. I have worked professionally as a photographer covering events and as a portraitist.",
+    "expertise": "Portrait",
+    "charge": 750
+  },
+  {
+    "key": 12,
+    "name": "Ismail Amami",
+    "gender": "Male",
+    "age": 24,
+    "img": "https://i.ibb.co/VLnHKWw/184.jpg",
+    "location": "New York",
+    "about": "Hi, my name is Ismail Amami, I am a professional photographer with three years of experience.",
+    "expertise": "Fashion",
+    "charge": 550
+  }
+]
